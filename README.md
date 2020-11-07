@@ -1,3 +1,3 @@
 # SMS-Bomber
-Api: Death Squads<br />
+Api: @Death_Squads<br />
 Created By @DrZeos
